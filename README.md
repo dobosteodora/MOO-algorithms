@@ -1,1 +1,3 @@
 # MOO-algorithms
+
+In this project a solver for composing teams of students in multi-project courses is implemented. The solver is composed of three heuristic multi-objective optimization algorithms (MOPSO, Tabu Search and NSGA-II), each of them focussing on a specific objective function (e.g. average priority and average experience objective), which are documented in the Bachelor's thesis. The user can set the constraints for the team assignment in the UI. A test set with anonimmyzed data from students participating in iPraktikum is included in order to assess the quality of the assignment solution.
