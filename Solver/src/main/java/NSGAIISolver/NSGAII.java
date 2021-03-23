@@ -1,6 +1,5 @@
 package NSGAIISolver;
 
-
 import start.GUI;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
@@ -8,7 +7,6 @@ import java.awt.event.ActionListener;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.Set;
-
 
 public class NSGAII {
 

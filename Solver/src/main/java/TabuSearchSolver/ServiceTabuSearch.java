@@ -6,7 +6,6 @@ import data.Student;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class ServiceTabuSearch {
 
     public static int countMacs(int[] assignments, int teamIndex) {

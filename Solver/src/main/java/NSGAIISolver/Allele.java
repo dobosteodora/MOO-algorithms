@@ -1,7 +1,3 @@
-/*
- * This code / file / algorithm is completely free to use and modify as necessary.
- * Any attribution is welcome and highly appriciated.
- */
 package NSGAIISolver;
 
 public class Allele {

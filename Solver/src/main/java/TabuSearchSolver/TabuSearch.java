@@ -5,7 +5,6 @@ import start.GUI;
 
 import java.util.*;
 
-
 public class TabuSearch {
 
     public static String[] generateSolution() {

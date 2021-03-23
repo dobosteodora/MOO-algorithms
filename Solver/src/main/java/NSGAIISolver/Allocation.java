@@ -4,7 +4,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-
 public class Allocation {
 
     private static Set<Chromosome> solutions = new HashSet();

@@ -1,7 +1,3 @@
-/*
- * This code / file / algorithm is completely free to use and modify as necessary.
- * Any attribution is welcome and highly appriciated.
- */
 package NSGAIISolver;
 
 import java.util.ArrayList;
@@ -123,7 +119,6 @@ public class NSGAIIGenetics {
         else if (NSGAIIGenetics.isDominant(chromosome2, chromosome1)) return NSGAIIGenetics.INFERIOR;
         else return NSGAIIGenetics.NON_DOMINATED;
     }
-
 
     //assume minimization for all objectives
     public static boolean isDominant(final Chromosome chromosome1, final Chromosome chromosome2) {
